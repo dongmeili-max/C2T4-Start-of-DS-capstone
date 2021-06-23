@@ -14,6 +14,7 @@ https://www.pewresearch.org/science/2020/09/17/u-s-public-now-divided-over-wheth
 Wave 67, Field dates: April 29 – May 5, 2020, Topics: Climate, coronavirus
 **data one the target from wave 67 (May 2020) is also included in the wave 74 (Sep 2020).comparison can be made**
 
+The following questions will be answered (subject to change once I gain a better and further understanding of the data.)
 1. overall thoughts:
  Definitely get the vaccine
 Probably get the vaccine
