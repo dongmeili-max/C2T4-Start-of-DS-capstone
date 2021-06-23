@@ -3,6 +3,7 @@
 Target: Whether To Get COVID-19 Vaccine: (classification problem)
 ATP is short for american trends panel
 https://www.pewresearch.org/science/dataset/american-trends-panel-wave-74/ (Sep 2020)
+https://www.pewresearch.org/science/2020/09/17/u-s-public-now-divided-over-whether-to-get-covid-19-vaccine/
 
 1. overall thoughts:
  Definitely get the vaccine
