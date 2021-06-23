@@ -15,3 +15,5 @@ Definitely NOT get the vaccine
 3. Can Target be predicted based on demographics?
 
 
+basic processing: the format of the downloaded data is SPSS.
+I selected and rename the relevant variables in SPSS and saved data as csv. 
